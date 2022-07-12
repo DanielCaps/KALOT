@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.ASL.deps.json
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.ASL.dll
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.ASL.pdb
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.AssemblyInfo.cs
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.dll
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.pdb
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.DAL.dll
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.DAL.pdb
+C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.csproj.CopyComplete

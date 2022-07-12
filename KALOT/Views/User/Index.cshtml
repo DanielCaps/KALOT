@@ -1,0 +1,40 @@
+﻿@model IEnumerable<KALOT.Models.User>
+
+@{
+    ViewData["Title"] = "GetUsers";
+}
+
+<h1>GetUsers</h1>
+
+<p>
+    <a asp-action="CreateUser">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NormalizedUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NormalizedUserName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>

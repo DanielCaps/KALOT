@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KALOT", "KALOT\KALOT.csproj", "{FD842568-64F4-4323-A84F-309036596460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KALOT.DAL", "KALOT.DAL\KALOT.DAL.csproj", "{CC8AA766-B3A5-497B-BD1F-6CFBB1DA04CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KALOT.ASL", "KALOT.ASL\KALOT.ASL.csproj", "{CEB73C24-DD32-4DE9-BC8D-FAAE23643630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD842568-64F4-4323-A84F-309036596460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD842568-64F4-4323-A84F-309036596460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD842568-64F4-4323-A84F-309036596460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD842568-64F4-4323-A84F-309036596460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8AA766-B3A5-497B-BD1F-6CFBB1DA04CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8AA766-B3A5-497B-BD1F-6CFBB1DA04CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8AA766-B3A5-497B-BD1F-6CFBB1DA04CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8AA766-B3A5-497B-BD1F-6CFBB1DA04CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB73C24-DD32-4DE9-BC8D-FAAE23643630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB73C24-DD32-4DE9-BC8D-FAAE23643630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB73C24-DD32-4DE9-BC8D-FAAE23643630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB73C24-DD32-4DE9-BC8D-FAAE23643630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E39282-DE86-46AA-8AE7-1174BFB47979}
+	EndGlobalSection
+EndGlobal
