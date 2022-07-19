@@ -19,7 +19,9 @@ namespace KALOT.Controllers
         private readonly ITabServices _tabServices;
         private readonly UserManager<ApplicationUser> _userManager;
 
-        public HomeController(ILogger<HomeController> logger, ITabServices tabServices, UserManager<ApplicationUser> userManager)
+        public HomeController(ILogger<HomeController> logger, 
+            ITabServices tabServices, 
+            UserManager<ApplicationUser> userManager)
         {
             _logger = logger;
             _tabServices = tabServices;
@@ -43,11 +45,10 @@ namespace KALOT.Controllers
         {
             return View(
                 new TabVM 
-                { 
-                    CreatedDate = DateTime.Today, 
+                {
+                    CreatedDate = DateTime.Today,
                     Users = ORM.ListApplicationUserToListUsers(_userManager.Users.ToList()),
                 });
-
         }
         [HttpPost]
         public async Task<IActionResult> CreateTab(Tab tab)
@@ -75,9 +76,11 @@ namespace KALOT.Controllers
 
 
 
-
-
-
+        // Products Service
+        // Cat Service
+        // Est Service
+        
+        // Check Automapper
 
 
 

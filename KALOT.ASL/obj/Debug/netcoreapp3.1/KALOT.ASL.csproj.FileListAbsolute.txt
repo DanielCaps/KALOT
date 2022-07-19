@@ -11,3 +11,16 @@ C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.pd
 C:\Users\danie\source\repos\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.DAL.dll
 C:\Users\danie\source\repos\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.DAL.pdb
 C:\Users\danie\source\repos\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.csproj.CopyComplete
+D:\Projects\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.ASL.deps.json
+D:\Projects\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.ASL.dll
+D:\Projects\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.ASL.pdb
+D:\Projects\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.DAL.dll
+D:\Projects\KALOT\KALOT.ASL\bin\Debug\netcoreapp3.1\KALOT.DAL.pdb
+D:\Projects\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.csproj.AssemblyReference.cache
+D:\Projects\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.AssemblyInfoInputs.cache
+D:\Projects\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.AssemblyInfo.cs
+D:\Projects\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.csproj.CoreCompileInputs.cache
+D:\Projects\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.csproj.CopyComplete
+D:\Projects\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.dll
+D:\Projects\KALOT\KALOT.ASL\obj\Debug\netcoreapp3.1\KALOT.ASL.pdb

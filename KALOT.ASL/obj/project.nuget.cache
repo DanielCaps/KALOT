@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cpIh/H0M71isk1RtSiQQD5Bn8VIxPqKAhtXhO/Cw7SO2uQlQ15C5qwC2XsTdMjnMao5i3Y1mKV1RR/HOnB1FOw==",
+  "dgSpecHash": "hsSNYDhccqvVQfuqtwsQ6pIGvWoapiKImxeKsuRDc6vnopPXF4A2D4QlOlc/AVFySBbdccOsTEM6JUKyuoI4LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.ASL\\KALOT.ASL.csproj",
+  "projectFilePath": "D:\\Projects\\KALOT\\KALOT.ASL\\KALOT.ASL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.26\\microsoft.aspnetcore.cryptography.internal.3.1.26.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.26\\microsoft.aspnetcore.cryptography.keyderivation.3.1.26.nupkg.sha512",

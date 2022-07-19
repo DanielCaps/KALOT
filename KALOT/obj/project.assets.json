@@ -8670,11 +8670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT\\KALOT.csproj",
+      "projectUniqueName": "D:\\Projects\\KALOT\\KALOT\\KALOT.csproj",
       "projectName": "KALOT",
-      "projectPath": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT\\KALOT.csproj",
+      "projectPath": "D:\\Projects\\KALOT\\KALOT\\KALOT.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT\\obj\\",
+      "outputPath": "D:\\Projects\\KALOT\\KALOT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8691,11 +8691,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.ASL\\KALOT.ASL.csproj": {
-              "projectPath": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.ASL\\KALOT.ASL.csproj"
+            "D:\\Projects\\KALOT\\KALOT.ASL\\KALOT.ASL.csproj": {
+              "projectPath": "D:\\Projects\\KALOT\\KALOT.ASL\\KALOT.ASL.csproj"
             },
-            "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj": {
-              "projectPath": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj"
+            "D:\\Projects\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj": {
+              "projectPath": "D:\\Projects\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj"
             }
           }
         }

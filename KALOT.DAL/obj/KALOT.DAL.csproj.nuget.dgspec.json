@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj": {}
+    "D:\\Projects\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj": {
+    "D:\\Projects\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj",
+        "projectUniqueName": "D:\\Projects\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj",
         "projectName": "KALOT.DAL",
-        "projectPath": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj",
+        "projectPath": "D:\\Projects\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.DAL\\obj\\",
+        "outputPath": "D:\\Projects\\KALOT\\KALOT.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",

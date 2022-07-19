@@ -19,5 +19,9 @@ namespace KALOT.DAL.Models
         [ForeignKey("User")]
         public string User_ID { get; set; }
         public virtual ApplicationUser User { get; set; }
+
+        [ForeignKey("Establishment")]
+        public int Establishment_ID { get; set; }
+        public virtual Establishment Establishment { get; set; }
     }
 }

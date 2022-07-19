@@ -16,10 +16,15 @@ namespace KALOT.DAL
 
 
         public DbSet<Tab> Tabs { get; set; }
+        public DbSet<Establishment> Establishments { get; set; }
+        public DbSet<Category> Categories{ get; set; }
+        public DbSet<Product> Products { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+
         }
 
 

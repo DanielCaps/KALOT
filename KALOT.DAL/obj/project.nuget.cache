@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ijj0Nemd94fpws5iZ45YVg8SUsMvdyWn+D5DgesNjdlrLaxY3HfbKlZo1+1rEqkyLdu6dnU3mkwPkyXGEXAnFA==",
+  "dgSpecHash": "Ce2cGOR38iDV7qP/IEPKqTb/0UI/Jfdmek+y8tX8v7UumuTqd0XejitehWaKa8Id8r/c5LWGZEQEDb299gR/eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\source\\repos\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj",
+  "projectFilePath": "D:\\Projects\\KALOT\\KALOT.DAL\\KALOT.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.26\\microsoft.aspnetcore.cryptography.internal.3.1.26.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.26\\microsoft.aspnetcore.cryptography.keyderivation.3.1.26.nupkg.sha512",

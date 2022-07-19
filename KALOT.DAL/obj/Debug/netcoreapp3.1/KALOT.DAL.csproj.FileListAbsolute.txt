@@ -11,3 +11,16 @@ C:\Users\danie\source\repos\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.cs
 C:\Users\danie\source\repos\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.dll
 C:\Users\danie\source\repos\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.pdb
 C:\Users\danie\source\repos\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.genruntimeconfig.cache
+D:\Projects\KALOT\KALOT.DAL\bin\Debug\netcoreapp3.1\KALOT.DAL.deps.json
+D:\Projects\KALOT\KALOT.DAL\bin\Debug\netcoreapp3.1\KALOT.DAL.runtimeconfig.json
+D:\Projects\KALOT\KALOT.DAL\bin\Debug\netcoreapp3.1\KALOT.DAL.runtimeconfig.dev.json
+D:\Projects\KALOT\KALOT.DAL\bin\Debug\netcoreapp3.1\KALOT.DAL.dll
+D:\Projects\KALOT\KALOT.DAL\bin\Debug\netcoreapp3.1\KALOT.DAL.pdb
+D:\Projects\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.csproj.AssemblyReference.cache
+D:\Projects\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.AssemblyInfoInputs.cache
+D:\Projects\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.AssemblyInfo.cs
+D:\Projects\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.dll
+D:\Projects\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.pdb
+D:\Projects\KALOT\KALOT.DAL\obj\Debug\netcoreapp3.1\KALOT.DAL.genruntimeconfig.cache
